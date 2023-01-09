@@ -1,0 +1,47 @@
+.aboutUs{
+    margin-left:10vw;
+    margin-bottom: 5vw;
+}
+
+.welcomeContainer{
+    margin-top: 15vh;
+    display:flex;
+    flex-direction: row;
+}
+
+.welcomeText{
+    display:flex;
+    flex-direction: column;
+    margin-left: 3vw;
+    margin-right: 10vw;
+    font-size: 10px;
+}
+
+.welcomeText > h4{
+    font-weight: lighter;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+}
+
+.welcomeText > h4 > span{
+    font-weight: bold;
+}
+.dots{
+    margin-top:2vh;
+}
+h5{
+    margin-top: 2vh;
+}
+
+.processText{
+    margin-top: 2vh;
+    font-size:8px;
+}
+
+.btn{
+    margin-top: 3vh;
+    border-radius:0;
+    width: 10vw;
+    font-size: 8px;
+    font-weight: bold;
+}

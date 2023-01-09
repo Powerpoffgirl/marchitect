@@ -1,0 +1,45 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+    background-color: #153172;
+    color: white;
+    text-align: center;
+    position:fixed;
+    height: 100vh;
+    z-index: 1;
+    width: 5vw;
+    justify-content: space-evenly;
+}
+
+.navbar > h4{
+    padding-bottom: 10px;
+}
+
+.ho{
+    transform:rotate(270deg);
+    font-size: 8px;
+    padding-right: 20px;
+    align-items: center;
+    padding-bottom: 1vh;
+}
+.home{
+    padding-top:10vh;
+    padding-bottom: 10vh;
+}
+
+.homeIcon{
+    border-top: 1px solid white;
+    padding-top: 35vh;
+    padding-bottom: 5vh;
+    border-bottom: 1px solid white;
+}
+
+.socialIcons{
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+}
+
+.socialIcons > svg{
+    padding-left: 6px;
+}

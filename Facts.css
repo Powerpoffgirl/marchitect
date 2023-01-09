@@ -1,0 +1,59 @@
+.facts{
+    margin-left: 5vw;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+}
+
+.factsContainer{
+    background-image: url(http://mokshaarchitects.com/images/bg/17.jpg);
+    width: 93.5vw;
+    height: 70vh;
+    color: white;
+}
+
+.headingOne{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20vh;
+}
+
+.heading{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    padding-left: 5vw;
+    width: 50vw;
+}
+
+.factsContainerHeadingLight{
+    font-weight:lighter;
+    font-size: 20px;
+}
+
+.factsContainerHeadingDark{
+    font-size: 20px;
+}
+
+.factsText{
+    font-size:10px;
+    margin-right: 10vw;
+    padding-left: 5vw;
+}
+
+.factsFigureContainer{
+    margin-left: 35vw;
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: row;
+}
+.factData{
+    margin-right:3vw;
+}
+
+.factData > h1 {
+    font-size: 50px;
+}
+
+.factData > p{
+    font-size: 10px;
+}

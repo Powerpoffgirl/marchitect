@@ -1,0 +1,21 @@
+.allProducts{
+    margin-top: 30vh;
+    background-image: url(http://mokshaarchitects.com/images/ext1.jpg);
+    /* background-repeat: no-repeat; */
+    margin-left: 5vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 41vw;
+    padding-bottom: 5vh;
+    color: white;
+    margin-bottom: 15vh;
+    background-size: contain;
+}
+
+.allProducts > h5{
+    margin-bottom: 1px;
+}
+.allProducts > h6{
+    margin-bottom: 1px;
+}
